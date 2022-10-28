@@ -1,4 +1,4 @@
-- 👋 Hi, I’m kaderhussain
+- 👋 Hi, I’m kader hussain
 - 👀 I’m interested in Android
 - 🌱 I’m currently learning Advance Android
 - 📫 How to reach me kaderhussain999@gmail.com
