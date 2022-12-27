@@ -1,6 +1,6 @@
 - 👋 Hi, I’m kader hussain
 - 👀 I’m interested in Android
-- 🌱 I’m currently learning Advance Android,Jetpack Compose
+- 🌱 I’m currently Jetpack Compose
 - 📫 How to reach me kaderhussain999@gmail.com
 
 <!---
